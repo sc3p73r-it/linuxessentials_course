@@ -1,7 +1,7 @@
 # linuxessentials_course_Slide_Overview 
 
 <H1>Slide 1</H1>
-![1](https://github.com/sc3p73r-it/linuxessentials_course/assets/140035139/5152cdf4-55c5-4dce-b033-f444e9abbda5) </br></br>
+(https://github.com/sc3p73r-it/linuxessentials_course/assets/140035139/5152cdf4-55c5-4dce-b033-f444e9abbda5) </br></br>
 
 <H1>Slide 2</H1>
 ![2](https://github.com/sc3p73r-it/linuxessentials_course/assets/140035139/b65bc32a-1ca8-4a77-ac19-0f5903ce03a1)</br></br>
